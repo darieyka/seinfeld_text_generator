@@ -1,6 +1,6 @@
-streamlit
-numpy
-tensorflow
-torch
-transformers
-huggingface_hub
+streamlit==1.40.0
+numpy==1.26.4
+tensorflow==2.16.2
+torch==2.4.1
+transformers==4.44.2
+huggingface_hub==0.24.6
